@@ -197,6 +197,9 @@ nav a:focus {
    .container-nav,
    .container-flex {
       flex-direction: row;
+   }
+   
+   .container-nav{
       align-items: center;
    }
    
